@@ -2,8 +2,8 @@ import React from "react";
 
 function footer() {
   return (
-    <div className="opacity-85 font-poppins">
-      <div className="text-center text-gray-900 h-full w-full mt-[3rem] mb-[1.1rem]">
+    <div className="opacity-20 font-poppins">
+      <div className="text-center h-full w-full mt-[3rem] mb-[1.1rem]">
         <p>
           made by
           <a
